@@ -1,7 +1,6 @@
 package com.poal.jugtours.model;
 
 import jakarta.persistence.*;
-import jdk.jfr.Event;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.NonNull;
