@@ -1,4 +1,4 @@
-package com.poal.jugtours.controller;
+package com.poal.jugtours.web;
 
 import com.poal.jugtours.model.Group;
 import com.poal.jugtours.model.GroupRepository;
@@ -14,6 +14,7 @@ import java.net.URISyntaxException;
 import java.util.Collection;
 import java.util.Optional;
 
+@CrossOrigin(origins = "http://localhost:5173")
 @RestController
 @RequestMapping("/api")
 public class GroupController {
