@@ -1,5 +1,6 @@
-package com.poal.jugtours.model;
+package com.poal.jugtours.repositories;
 
+import com.poal.jugtours.model.Group;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface GroupRepository extends JpaRepository<Group, Long> {

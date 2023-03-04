@@ -1,7 +1,7 @@
 package com.poal.jugtours.web;
 
 import com.poal.jugtours.model.Group;
-import com.poal.jugtours.model.GroupRepository;
+import com.poal.jugtours.repositories.GroupRepository;
 import jakarta.validation.Valid;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
