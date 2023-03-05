@@ -1,0 +1,21 @@
+.group-list {
+  padding: 3rem;
+}
+
+table {
+  width: 100%;
+  border-spacing: 0;
+
+  font-size: 21px;
+  border-bottom: 3px solid lightgrey;
+
+  th {
+    padding: 13px;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+  }
+  td {
+    padding: 21px 0;
+    text-align: center;
+  }
+}

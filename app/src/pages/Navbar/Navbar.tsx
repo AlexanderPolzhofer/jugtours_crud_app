@@ -5,7 +5,7 @@ import "./Navbar.scss";
 export const Navbar = () => {
   return (
     <nav>
-      <img src="/src/assets/react.svg" />
+      <img src="/src/assets/react.svg" alt="react-logo" />
       <div className="links-container">
         <Link to="/">Home</Link>
         <Link to="/edit-group">Edit Group</Link>
