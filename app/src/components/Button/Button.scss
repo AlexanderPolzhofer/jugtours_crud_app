@@ -1,0 +1,18 @@
+.button {
+  background-color: rgb(56, 62, 66);
+  border: 1px solid turquoise;
+  color: #ffffff;
+  padding: 13px;
+  border-radius: 5px;
+  font-size: 14px;
+  text-shadow: 0.8px 0.5px 0.3px rgb(56, 62, 66);
+  cursor: pointer;
+}
+.edit {
+  background-color: turquoise;
+  border: 1px solid rgb(56, 62, 66);
+}
+.delete {
+  background-color: #f7b4bb;
+  border: 1px solid rgb(56, 62, 66);
+}
